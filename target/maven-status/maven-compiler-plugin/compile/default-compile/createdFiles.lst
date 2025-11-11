@@ -1,0 +1,12 @@
+com/example/supplychain/LocationRepository.class
+com/example/supplychain/LocationController.class
+com/example/supplychain/HelloController.class
+com/example/supplychain/Location.class
+com/example/supplychain/MovementController.class
+com/example/supplychain/MovementRepository.class
+com/example/supplychain/SupplychainDemoApplication.class
+com/example/supplychain/ProductController.class
+com/example/supplychain/Product.class
+com/example/supplychain/ProductRepository.class
+com/example/supplychain/dto/MovementCreateRequest.class
+com/example/supplychain/Movement.class

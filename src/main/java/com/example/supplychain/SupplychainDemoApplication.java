@@ -1,0 +1,11 @@
+package com.example.supplychain;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SupplychainDemoApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(SupplychainDemoApplication.class, args);
+    }
+}
