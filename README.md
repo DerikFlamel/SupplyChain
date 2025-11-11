@@ -13,7 +13,7 @@ Architecturally, the project emphasizes modularity and scalability. The use of S
 
 ## 🖼️ Preview
 
-![Project Screenshot](./Images/Screenshot.png)
+![Project Screenshot](Screenshot.png)
 
 ---
 
